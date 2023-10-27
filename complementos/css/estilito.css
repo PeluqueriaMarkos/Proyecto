@@ -1,0 +1,87 @@
+body {
+    background-image: url("../img/fondo.jpg")
+}
+.cabeza {
+    width: 90%;
+    margin: auto;
+    margin-top: 15px;
+}
+.cuerpo {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+.cuerpo .desl{
+    font-size: 30px;
+    color: #0489B1;
+}
+.cuerpo .kamaru img{
+    width: 100%;
+    padding-top: 2px;
+}
+.cuerpo .contc img{
+    width: 60%;
+    padding-top: 2px;
+}
+.msv {
+    width: 100%;
+    margin: auto;
+    margin-top: 5px;
+    background-color:white;
+}
+.msv .visi,.misi,.valo{
+    width: 25%;
+    float: left;
+    margin-left: 7%;
+    
+}
+.msv img{
+    width: 90%;
+    margin: auto;
+}
+.msv p{
+    width: 100%;
+    text-align: center;
+	font-size: 1.0em;
+	font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);  
+}
+.veter{
+    width: 100%;
+    text-align: center;
+    
+    margin: auto;
+}
+.veter .ayuda{
+    text-align: center;
+}
+.foot{
+    width: 90%;
+    margin: auto;
+    margin-top: 15px;
+}
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f9f9f9; /* Color de fondo claro */
+    border: 1px solid #ddd; /* Borde ligero */
+}
+
+/* Estilos para las celdas del encabezado */
+.table-header th {
+    background-color: #4CAF50; /* Color de fondo para las celdas de encabezado */
+    color: white;
+}
+
+/* Estilos para las celdas de datos */
+.table tbody tr:hover {
+    background-color: #f5f5f5; /* Color de fondo cuando se pasa el mouse sobre una fila */
+}
+
+/* Estilos para las celdas de datos */
+.table tbody td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Borde inferior para filas */
+}

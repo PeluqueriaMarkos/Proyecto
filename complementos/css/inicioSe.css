@@ -1,0 +1,21 @@
+.cuerpo .aInicio{
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+    background-color: azure;
+    border-radius: 5px;
+}
+.cuerpo .inicio{
+    width: 50%;
+    margin: auto;
+    background-color: azure;
+    border-radius: 5px;
+}
+.cuerpo .inicio .btn{
+    margin-left: 35%;
+    margin-bottom: 20px;
+}
+.cuerpo .subformu table{
+    margin-left: 45%;
+    margin-bottom: 20px;
+}

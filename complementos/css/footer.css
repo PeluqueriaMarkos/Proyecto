@@ -1,0 +1,15 @@
+footer {
+    width: 90%;
+    border-radius: 5px;
+    background-color: rgba(119, 169, 202, 0.8);
+    margin: auto;
+    margin-top: 10px;
+}
+footer div {
+    width: 40%;
+    margin: auto;
+}
+footer p {
+    text-align: center;
+    font-family: sans-serif;
+}
